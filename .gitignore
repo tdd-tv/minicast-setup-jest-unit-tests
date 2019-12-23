@@ -1,1 +1,7 @@
 .idea/
+.DS_STORE
+node_modules
+*.log*
+*.iml
+.vscode
+*.tar
