@@ -1,0 +1,15 @@
+{
+  "name": "minicast-setup-jest-unit-tests",
+  "version": "1.0.0",
+  "repository": "https://github.com/tdd-tv/minicast-setup-jest-unit-tests.git",
+  "author": "dschinkel <dschinkel@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test-unit": "jest --watchAll"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "jest": "^24.9.0"
+  }
+}
